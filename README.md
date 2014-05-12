@@ -1,4 +1,4 @@
-Mac-Java-Exception
+Mac Java Exception
 ==================
 
 Add exception to Java allowed list for all users
